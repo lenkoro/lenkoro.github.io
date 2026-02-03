@@ -1,3 +1,4 @@
+jekyll new --skip-bundle
 theme: jekyll-theme-minimal
 title: Lenny's Website
 description: Test
